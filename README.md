@@ -29,7 +29,7 @@
   <br/>  
   <br/>
   <div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SasukeUchiha-01&theme=react" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SasukeUchiha-01&theme=chartreuse-dark" /></p>
   </div>
 <br/>
 

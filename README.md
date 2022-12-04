@@ -23,8 +23,8 @@
 <br><br>
         
 ## Github Stats
-<a href = "https://github.com/SasukeUchiha-01/github-readme-stats"><img src = "https://github-readme-stats.vercel.app/api?username=SasukeUchiha-01&show_icons=true&theme=chartreuse-dark">
-<a href = "https://github.com/SasukeUchiha-01/github-readme-stats"><img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=SasukeUchiha-01&layout=compact&theme=chartreuse-dark">
+<img src="https://github-readme-stats.vercel.app/api?username=SasukeUchiha-01&count_private=true&show_icons=true&theme=chartreuse-dark&include_all_commits=true"/>
+<a href = "https://github.com/SasukeUchiha-01/github-readme-stats"><img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=SasukeUchiha-01&layout=compact&theme=chartreuse-dark&count_private=true">
 <!--< a href = "https://github.com/SasukeUchiha-01/github-profile-trophy">-->
 <img src = "https://github-profile-trophy.vercel.app/?username=SasukeUchiha-01&theme=onedark"/>
 <!--< a href = "https://github.com/SasukeUchiha-01/github-readme-activity-graph">

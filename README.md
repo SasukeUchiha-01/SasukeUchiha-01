@@ -23,8 +23,16 @@
 <br><br>
         
 ## Github Stats
-<img src="https://github-readme-stats.vercel.app/api?username=SasukeUchiha-01&count_private=true&show_icons=true&theme=chartreuse-dark&include_all_commits=true"/>
-<a href = "https://github.com/SasukeUchiha-01/github-readme-stats"><img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=SasukeUchiha-01&layout=compact&theme=chartreuse-dark&count_private=true">
+
+<a href="https://github.com/SasukeUchiha-01/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=SasukeUchiha-01&show_icons=true&count_private=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/SasukeUchiha-01/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SasukeUchiha-01&langs_count=8&count_private=true&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" /></a>
+  <br/>  
+  <br/>
+  <div align="center">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SasukeUchiha-01&theme=react" /></p>
+  </div>
+<br/>
+
 <!--< a href = "https://github.com/SasukeUchiha-01/github-profile-trophy">-->
 <img src = "https://github-profile-trophy.vercel.app/?username=SasukeUchiha-01&count_private=true&theme=onedark"/>
 <!--< a href = "https://github.com/SasukeUchiha-01/github-readme-activity-graph">
@@ -42,3 +50,9 @@
 <!--<a href = "https://www.linkedin.com/in/lakshita-joshi-299811208/"><img src = "https://www.google.com/search?q=linkedin+logo&rlz=1C1UEAD_enIN955IN955&sxsrf=ALiCzsaP2HjdOnDZALcZkJO256VSArYrkQ:1670147800050&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjGpeCy2d_7AhWA7XMBHTVUAPwQ_AUoAXoECAEQAw&biw=1536&bih=746&dpr=1.25#imgrc=xfN8LhVUsM8dRM">
 --></div>
            
+## Views and Followers
+<a href="https://github.com/SasukeUchiha-01/github-profile-views-counter">
+ <img src="https://komarev.com/ghpvc/?username=SasukeUchiha-01&color=green">
+</a>
+<a href="https://github.com/SasukeUchiha-01?tab=followers"><img src="https://img.shields.io/github/followers/SasukeUchiha-01?label=Followers&style=social" alt="GitHub Badge"></a>
+ 

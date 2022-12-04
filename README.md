@@ -55,5 +55,5 @@
 <a href="https://github.com/SasukeUchiha-01/github-profile-views-counter">
  <img src="https://komarev.com/ghpvc/?username=SasukeUchiha-01&color=green">
 </a>
-<a href="https://github.com/SasukeUchiha-01?tab=followers"><img src="https://img.shields.io/github/followers/SasukeUchiha-01?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/SasukeUchiha-01?tab=followers"><img src="https://img.shields.io/github/followers/SasukeUchiha-01?label=Followers&style=social&count=true" alt="GitHub Badge"></a>
  

@@ -30,7 +30,7 @@
   <br/>
   <div align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SasukeUchiha-01&theme=chartreuse-dark" /></p>
-<p><img align = "center" src = "https://github-profile-trophy.vercel.app/?username=SasukeUchiha-01&count_private=true&theme=onedark"/>" /></p>
+<p><img align = "center" src = "https://github-profile-trophy.vercel.app/?username=SasukeUchiha-01&count_private=true&theme=onedark" /></p>
   </div>
 <br/>
 

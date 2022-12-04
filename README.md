@@ -30,11 +30,12 @@
   <br/>
   <div align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SasukeUchiha-01&theme=chartreuse-dark" /></p>
+<p><img align = "center" src = "https://github-profile-trophy.vercel.app/?username=SasukeUchiha-01&count_private=true&theme=onedark"/>" /></p>
   </div>
 <br/>
 
 <!--< a href = "https://github.com/SasukeUchiha-01/github-profile-trophy">-->
-<img src = "https://github-profile-trophy.vercel.app/?username=SasukeUchiha-01&count_private=true&theme=onedark"/>
+
 <!--< a href = "https://github.com/SasukeUchiha-01/github-readme-activity-graph">
 <img src = "https://activity-graph.herokuapp.com/graph?username=SasukeUchiha-01&theme=chartreuse-dark" width = 100% />
 -->
